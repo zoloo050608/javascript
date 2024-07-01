@@ -48,3 +48,4 @@ if (min > too4) {
 console.log(min);
 
 // bodlogo 6
+// bodlogo 7
