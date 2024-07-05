@@ -10,15 +10,15 @@
 
 // bodlogo 2--------
 
-const numbers = [1, 2, 3, 4];
-let max = numbers[0];
+// const numbers = [1, 2, 3, 4];
+// let max = numbers[0];
 
-for (let i = 0; i <= numbers.length - 1; i++) {
-  if (max < numbers[i + 1]) {
-    max = numbers[i + 1];
-  }
-}
-console.log(max);
+// for (let i = 0; i <= numbers.length - 1; i++) {
+//   if (max < numbers[i + 1]) {
+//     max = numbers[i + 1];
+//   }
+// }
+// console.log(max);
 
 // bodlogo 3--------
 
